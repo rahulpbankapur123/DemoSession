@@ -9,4 +9,4 @@ jobs:
       - name: Echo Content
         run: |
           echo Ok
-          sleep 50s
+          sleep 30s
